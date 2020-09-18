@@ -1,3 +1,13 @@
+/**
+ * Serviço responsável por executar as operações
+ * da calculadora.
+ * 
+ * @author Diego Minelli<diego.minelli@hotmail.com>
+ * @since 1.0.0
+ */
+
+
+
 import { Injectable } from '@angular/core';
 
 @Injectable()
